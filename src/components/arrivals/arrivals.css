@@ -1,0 +1,19 @@
+.arrivals {
+  margin-top: 72px;
+  margin-bottom: 55px;
+}
+
+.arrivals-content {
+}
+
+.arrivals-header {
+  text-align: center;
+  font-weight: 900;
+  font-size: 48px;
+}
+
+.arrivals-card {
+  display: flex;
+  margin-top: 55px;
+  justify-content: space-between;
+}
