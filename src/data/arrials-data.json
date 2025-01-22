@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "img": "./",
+    "img": "../../images/arrival1.png",
     "title": "T-SHIRT WITH TAPE DETAILS",
     "start": "./",
     "raiting": "4.5",
@@ -9,7 +9,7 @@
   },
   {
     "id": "2",
-    "img": "./",
+    "img": "../../images/arriva2.png",
     "title": "SKINNY FIT JEANS",
     "start": "./",
     "raiting": "3.5",
@@ -17,7 +17,7 @@
   },
   {
     "id": "3",
-    "img": "./",
+    "img": "../../images/arrival3.png",
     "title": "CHECKERED SHIRT",
     "start": "./",
     "raiting": "4.5",
@@ -25,7 +25,7 @@
   },
   {
     "id": "4",
-    "img": "./",
+    "img": "../../images/arrival4.png",
     "title": "SLEEVE STRIPED T-SHIRT",
     "start": "./",
     "raiting": "4.5",

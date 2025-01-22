@@ -1,3 +1,8 @@
 .card {
   background: #999;
 }
+
+.crad-image img {
+  width: 100%;
+  height: 80px;
+}
