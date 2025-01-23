@@ -13,7 +13,7 @@
 }
 
 .arrivals-card {
-  display: flex;
+  /* display: flex; */
   margin-top: 55px;
   justify-content: space-between;
 }
