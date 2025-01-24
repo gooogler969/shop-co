@@ -15,10 +15,11 @@ function Card() {
             <div className="card-content">
               <h3>{card.title}</h3>
               <div className="raiting">
+                <img src={card.star} alt="" />
                 <p>{card.raiting}</p>
               </div>
               <div className="price">
-                <p>{card.price}</p>
+                <p>{card.price}$</p>
               </div>
             </div>
           </div>
