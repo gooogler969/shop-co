@@ -1,4 +1,4 @@
-.arrivals {
+.products {
   margin-top: 72px;
   margin-bottom: 55px;
 }
@@ -12,23 +12,23 @@
   margin-bottom: 64px;
 }
 
-.arrivals-content {
+.products-content {
 }
 
-.arrivals-header {
+.products-header {
   text-align: center;
   font-weight: 900;
   font-size: 48px;
 }
 
-.arrivals-card {
+.products-card {
   width: 100%;
   display: flex;
   justify-content: flex-start; /* Выровнять карточку по левому краю */
   margin-top: 55px;
 }
 
-.arr-btn {
+.products-btn {
   display: inline-block;
   text-align: center;
   color: black;

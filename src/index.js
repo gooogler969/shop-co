@@ -4,7 +4,7 @@ import "./index.css";
 import Navbar from "./components/navigation/Navbar";
 import Main from "./components/main/Main";
 import Logos from "./components/logos/Logos";
-import Arrivals from "./components/arrivals/Arrivals";
+import Products from "./components/products/Products";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -14,7 +14,7 @@ root.render(
       <Main />
       <Logos />
 
-      <Arrivals />
+      <Products />
     </div>
   </React.StrictMode>
 );
