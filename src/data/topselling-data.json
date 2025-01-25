@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "img": "/images/sell-card/selling1.png",
+    "title": "VERTICAL STRIPED SHIRT",
+    "star": "/images/stars.png",
+    "raiting": "4.5",
+    "price": "212"
+  },
+  {
+    "id": "2",
+    "img": "/images/sell-card/selling2.png",
+    "title": "COURAGE GRAPHIC T-SHIRT",
+    "star": "/images/stars.png",
+    "raiting": "4.5",
+    "price": "145"
+  },
+  {
+    "id": "3",
+    "img": "/images/sell-card/selling3.png",
+    "title": "LOOSE FIT BERMUDA SHORTS",
+    "star": "/images/stars.png",
+    "raiting": "4.5",
+    "price": "80"
+  },
+  {
+    "id": "4",
+    "img": "/images/sell-card/selling4.png",
+    "title": "FADED SKINNY JEANS",
+    "star": "/images/stars.png",
+    "raiting": "4.5",
+    "price": "210"
+  }
+]
